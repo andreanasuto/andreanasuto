@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreanasuto
-- 👨🏽‍💻 Data scientist and geographer.
+- 👨🏽‍💻 Data scientist/Machine Learning Engineer and Geographer.
 - 🗺 I'm currently working as... Research Assistant and Data Scientist at the Geographic Data Science Lab, University of Liverpool.
 - 🌍 I've extensively lived and worked in the 🇺🇸🇨🇦🇪🇺 born in one of the hardest area in Southern 🇮🇹. Proudly Mediterranean.
 - 📊 Recently worked at... the International Organization for Migrations at the United Nation as  CDRC fellow studying how immigration speech takes shape on Twitter in the UK. My goal is to determine speed, key spreaders and producers of the immigration public debate in the UK. I have been using NLP, graph theory and machine learning techniques to clean, process and get insights from deep and complex nested datasets.
