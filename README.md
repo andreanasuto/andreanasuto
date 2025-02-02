@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreanasuto
 - 👨🏽‍💻 Data scientist/Machine Learning Engineer and Geographer.
-- 🎓 I'm a Fellow at Insitute for Quantitative Social Science at Harvard University and PhD Candidate at the Geographic Data Science Lab, University of Liverpool.
+- 🎓 I'm a Fellow at Insitute for Quantitative Social Science and Center for Geographical Analysis at Harvard University and PhD Candidate at the Geographic Data Science Lab, University of Liverpool.
 - 🌍 I've extensively lived and worked in the 🇺🇸🇨🇦🇪🇺 born in one of the hardest areas in Southern 🇮🇹. Proudly Mediterranean.
 - 📊 Recently worked as...Research Assistant and Data Scientist at Geographic Data Science Lab, University of Liverpool in a project assessing internal displacement and war events in Ukraine 
 - ⚛️  My PhD research is around... studying how immigration speech takes shape on Twitter
